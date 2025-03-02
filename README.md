@@ -45,14 +45,7 @@ STLport will require changes to successfully compile this source code. The file 
 
 
 ## Contributing
-
-This repository will not be accepting contributions (pull requests, issues, etc). If you wish to create changes to the source code and encourage collaboration, please create a fork of the repository under your GitHub user/organization space.
-
-
-## Support
-
-This repository is for preservation purposes only and is archived without support. 
-
+We welcome contributions to improve this game! Whether you're interested in fixing bugs, or helping us expand platform support (like Linux, macOS, or Android), your help is valuable.
 
 ## License
 
